@@ -1,4 +1,4 @@
-# WEB 24-25 KI-410 Abrosimov A.S. 01
+c# WEB 24-25 KI-410 Abrosimov A.S. 01
 
 # Description
 
@@ -17,4 +17,4 @@ A simple website business card containing personal data or project information. 
 - Node
 
 - HTML/CSS
-  0 commit commentsComments0 (0)
+task1
