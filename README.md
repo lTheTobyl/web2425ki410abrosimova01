@@ -7,9 +7,7 @@ A simple website business card containing personal data or project information. 
 ## Task Details
 
 | **Student Number** | fraud | Authentication 3-ty | Register 3-ty |
-
-|------------------|------------------|-------------------|-------------|
-
+| ------------------ | ------------------ | ------------------- | ------------- |
 | 1 | fishing | google | Viber |
 
 # Technology Stack
