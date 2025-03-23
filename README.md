@@ -17,4 +17,3 @@ A simple website business card containing personal data or project information. 
 - Node
 
 - HTML/CSS
-task1
